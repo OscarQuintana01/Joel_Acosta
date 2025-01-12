@@ -4,11 +4,12 @@ public class PerimetroRec{
 	double base, altura, perimetro;
 		Scanner entrada= new Scanner(System.in);
 		System.out.println("Ingrese el valor");
-		base=entrada.nextdouble();
+		base=entrada.nextDouble();
 		System.out.println("Ingrese la altura");
-		altura=entrada.nextdouble();
-		perimetro= 2(base+altura);	
-		System.out.println("El perimetro es" + perimetro);	
+		altura=entrada.nextDouble();
+		perimetro= 2*(base+altura);	
+		System.out.println("El perimetro es: " + perimetro);	
+
 	
 	}
 }
