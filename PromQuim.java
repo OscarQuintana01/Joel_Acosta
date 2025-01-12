@@ -1,3 +1,5 @@
+//Este programa permite hacer un pormedio de notas, mi nombre es Oscar Joel Quintana Acosta, cualquier duda llameme al 0987654321//
+
 import java.util.Scanner;
 public class PromQuim{
 	public static void main(String [] args) {
